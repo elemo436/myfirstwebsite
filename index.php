@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <h1>Welcome to My Website!</h1>
+    <h1>Welcome to My php Website!</h1>
 
     <?php
         echo "<h2>Hello! PHP is working.</h2>";
